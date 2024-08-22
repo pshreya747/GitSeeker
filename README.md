@@ -23,4 +23,3 @@
 ## GitHub API Integration
 ### GitSeeker integrates with the GitHub API to fetch user data based on the provided username. This ensures up-to-date and accurate profile information directly from GitHub's servers.
 
-## Deployed link is here  https://pshreya747.github.io/GitSeeker/  . you can check it out !!
